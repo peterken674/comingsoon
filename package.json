@@ -1,0 +1,22 @@
+{
+  "name": "comingsoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterken674/comingsoon.git"
+  },
+  "author": "peterken674",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterken674/comingsoon/issues"
+  },
+  "homepage": "https://github.com/peterken674/comingsoon#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.31"
+  }
+}
